@@ -1,6 +1,6 @@
-# \[ 10 / 18 \] JavaScript interview questions.
+# Chapters List
 
-1. [FizzBuzz](1-fizzbuzz.md)
+1. [Getting up and Started with M.E.A.N. Stack](1-getting-up-and-started-with-mean-stack.md)
 2. [Array sum polyfill](2-arraysum-polyfill.md)
 3. [Calculate employee gross pay](3-grosspay.md)
 4. [Rolls of coins](4-rolls-of-coins.md)
